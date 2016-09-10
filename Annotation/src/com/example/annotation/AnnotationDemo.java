@@ -10,7 +10,7 @@ package com.example.annotation;
  */
 public class AnnotationDemo {
     public static void main(String[] args){
-        System.out.println("Annotation Starts..");
+        System.out.println("Annotation Starts.." );
     }
     
 }
